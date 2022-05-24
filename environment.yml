@@ -1,0 +1,14 @@
+name: ant-plots-3.9-env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - astropy
+  - cartopy
+  - colorcet
+  - datashader
+  - fastparquet
+  - geoviews
+  - holoviews
+  - pandas
+  - python==3.9
